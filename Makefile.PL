@@ -14,9 +14,9 @@ name 'MetaTrans-WordBook';
 requires 'HTTP::Request' => 0;
 requires 'MetaTrans' => '1.06';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
-	'?Name=MetaTrans';
-resources 'homepage' => 'https://github.com/tupinek/MetaTrans';
-resources 'repository' => 'git://github.com/tupinek/MetaTrans';
+	'?Name=MetaTrans-WordbookCz';
+resources 'homepage' => 'https://github.com/tupinek/MetaTrans-WordbookCz';
+resources 'repository' => 'git://github.com/tupinek/MetaTrans-WordbookCz';
 test_requires 'English' => 0;
 test_requires 'File::Object' => 0.05;
 test_requires 'Test::More' => 0;

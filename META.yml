@@ -29,7 +29,7 @@ requires:
   HTTP::Request: 0
   MetaTrans: 1.06
 resources:
-  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=MetaTrans
-  homepage: https://github.com/tupinek/MetaTrans
-  repository: git://github.com/tupinek/MetaTrans
+  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=MetaTrans-WordbookCz
+  homepage: https://github.com/tupinek/MetaTrans-WordbookCz
+  repository: git://github.com/tupinek/MetaTrans-WordbookCz
 version: 1.06
