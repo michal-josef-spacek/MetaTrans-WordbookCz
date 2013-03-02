@@ -10,7 +10,7 @@ abstract 'MetaTrans plugin for wordbook.cz.';
 author 'Jan Pomikalek <xpomikal@fi.muni.cz>';
 author 'Michal Špaček <skim@cpan.org>';
 license 'perl-5';
-name 'MetaTrans-WordBook';
+name 'MetaTrans-WordBookCz';
 requires 'HTTP::Request' => 0;
 requires 'MetaTrans' => '1.06';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.

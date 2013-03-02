@@ -20,7 +20,7 @@ license: perl-5
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
-name: MetaTrans-WordBook
+name: MetaTrans-WordBookCz
 no_index:
   directory:
     - inc
