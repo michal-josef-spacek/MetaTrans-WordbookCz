@@ -14,4 +14,5 @@ t/MetaTrans-WordbookCz/00-use.t
 t/MetaTrans-WordbookCz/01-version.t
 t/MetaTrans-WordbookCz/02-pod_coverage.t
 t/MetaTrans-WordbookCz/03-pod.t
+t/MetaTrans-WordbookCz/04-new.t
 WordbookCz.pm
